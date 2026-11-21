@@ -1,4 +1,4 @@
-﻿window.DB = window.DB || {};
+window.DB = window.DB || {};
 
 DB[1] = DB[1] || {};
 DB[1]['s27_ict_2'] = [
